@@ -64,3 +64,4 @@ function resetEverything() {
   numberOfPeople.value = "";
   customTipPercentage.value = "";
 }
+alert("Calculate easily with Tip Calculator A code by Davest");
